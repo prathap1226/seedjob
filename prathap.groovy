@@ -1,4 +1,4 @@
-multibranchPipelineJob('example') {
+multibranchPipelineJob('Prathap') {
     branchSources {
         git {
             remote('https://github.com/jenkinsci/job-dsl-plugin.git')
